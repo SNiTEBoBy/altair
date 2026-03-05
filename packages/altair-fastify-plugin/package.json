@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "fastify": "^3.5.1",
-    "mercurius": "^6.0.0",
+    "mercurius": "^16.4.0",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.3"
   },
